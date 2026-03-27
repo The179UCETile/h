@@ -1,11 +1,22 @@
 @font-face {
   font-family: unifont17;
   src: url(fonts/unifont-17.0.04.otf);
+  unicode-range: U+0-FFFF;
+}
+@font-face {
+  font-family: unifont17;
+  src: url(fonts/unifont_upper-17.0.04.otf);
+  unicode-range: U+10000-1FFFF;
 }
 @font-face {
   font-family: unifont csur;
   src: url(fonts/unifont-17.0.04.otf);
-  unicode-range: U+0-DFFF, U+F900-10FFFF;
+  unicode-range: U+0-DFFF, U+F900-FFFF, U+20000-10FFFF;
+}
+@font-face {
+  font-family: unifont csur;
+  src: url(fonts/unifont_upper-17.0.04.otf);
+  unicode-range: U+10000-1FFFF;
 }
 @font-face {
   font-family: unifont csur;
