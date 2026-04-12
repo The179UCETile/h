@@ -24,6 +24,10 @@
   unicode-range: U+E000-F8FF, U+F0000-F28DF;
 }
 @font-face {
+  font-family: fairfax;
+  src: url(fonts/FairfaxHD.ttf);
+}
+@font-face {
   font-family: special;
   src: url(https://the179ucetile.github.io/fonts/monospace-textwall-wip.ttf);
   unicode-range: U+1CC00-1CEB3
