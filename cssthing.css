@@ -28,7 +28,27 @@
   src: url(fonts/FairfaxHD.ttf);
 }
 @font-face {
+  font-family: fairfax fs;
+  src: url(fonts/FairfaxHD.ttf);
+  unicode-range: U+0-EFFF, U+F200-10FFFF
+}
+@font-face {
+  font-family: fairfax sq;
+  src: url(fonts/FairfaxHD.ttf);
+  unicode-range: U+0-F5BF, U+F8A0-1CBFF, U+1CEC0-1EFFF, U+1F200-FAFFF, U+100000-100FFF;
+}
+@font-face {
+  font-family: fairfax fs;
+  src: url(fonts/KreativeSquare.ttf);
+  unicode-range: U+F000-F1FF;
+}
+@font-face {
+  font-family: fairfax sq;
+  src: url(fonts/KreativeSquare.ttf);
+  unicode-range: U+F5C0-F89F, U+1CC00-1CEBF, U+1F000-1F1FF, U+FB000-FFFFF;
+}
+@font-face {
   font-family: special;
-  src: url(https://the179ucetile.github.io/fonts/monospace-textwall-wip.ttf);
+  src: url(fonts/FairfaxHD.ttf);
   unicode-range: U+1CC00-1CEB3
 }
