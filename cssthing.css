@@ -48,6 +48,10 @@
   unicode-range: U+F5C0-F89F, U+1CC00-1CEBF, U+1F000-1F1FF, U+FB000-FFFFF;
 }
 @font-face {
+  font-family: globopixelia;
+  src: url(fonts/Globopixelia.ttf);
+}
+@font-face {
   font-family: special;
   src: url(fonts/FairfaxHD.ttf);
   unicode-range: U+1CC00-1CEB3
