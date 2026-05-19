@@ -6,7 +6,7 @@
 @font-face {
   font-family: unifont17;
   src: url(fonts/unifont_upper-17.0.04.otf);
-  unicode-range: U+10000-1FFFF;
+  unicode-range: U+10000-10FFFF;
 }
 @font-face {
   font-family: unifont csur;
