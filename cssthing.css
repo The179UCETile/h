@@ -54,5 +54,5 @@
 @font-face {
   font-family: special;
   src: url(fonts/FairfaxHD.ttf);
-  unicode-range: U+1CC00-1CEB3, U+1FBCB-U+1FBEF
+  unicode-range: U+1CC00-1CEB3, U+1FBCB-1FBEF;
 }
